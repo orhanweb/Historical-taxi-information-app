@@ -1,4 +1,4 @@
-# yazlab2
+# Historical taxi information app
 
 A new Flutter project.
 
